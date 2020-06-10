@@ -1,0 +1,14 @@
+{
+  "Learn React": {
+    "completed": true
+  },
+  "Learn Pheonix": {
+    "completed": false
+  },
+  "Learn Elixir": {
+    "completed": true
+  },
+  "Learn PHP": {
+    "completed": true
+  }
+}
